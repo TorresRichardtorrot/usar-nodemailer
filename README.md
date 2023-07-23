@@ -1,7 +1,5 @@
 # usar-nodemailer
 
-¡Por supuesto! Aquí tienes una documentación sobre cómo utilizar Nodemailer sin código. Te mostraré los pasos básicos para configurar y utilizar Nodemailer a través de una interfaz de usuario gráfica (GUI) llamada "Nodemailer App".
-
 **Paso 1: instalar las dependencias**
 nodemon,
 nodemailer,
